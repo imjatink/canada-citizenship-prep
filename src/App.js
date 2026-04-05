@@ -763,7 +763,7 @@ function HomeScreen({ state, pct, onStudy, onMock, onHistory, sets }) {
           </div>
           {/* Ko-fi button */}
           <a href="https://www.biznitize.com/donate" target="_blank" rel="noopener noreferrer" style={{ display:"flex", alignItems:"center", justifyContent:"center", gap:8, marginTop:14, padding:"9px 16px", background:"#FF5E5B", borderRadius:10, textDecoration:"none", color:"#fff", fontSize:13, fontWeight:700, fontFamily:"Georgia,serif", letterSpacing:0.3 }}>
-            ☕ Support this free app — biznitize.com
+            ☕ Support this free app
           </a>
 
           {/* Stats bar */}
@@ -907,7 +907,7 @@ function HomeScreen({ state, pct, onStudy, onMock, onHistory, sets }) {
               📋 View Full History
             </button>
             <a href="https://www.biznitize.com/donate" target="_blank" rel="noopener noreferrer" style={{ display:"flex", alignItems:"center", justifyContent:"center", gap:8, marginTop:12, padding:"11px", background:"#FF5E5B", borderRadius:10, textDecoration:"none", color:"#fff", fontSize:13, fontWeight:700, fontFamily:"Georgia,serif" }}>
-              ☕ This app is free — support at biznitize.com/donate
+              ☕ This app is free — support the creator
             </a>
           </div>
         )}
