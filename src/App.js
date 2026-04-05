@@ -762,8 +762,8 @@ function HomeScreen({ state, pct, onStudy, onMock, onHistory, sets }) {
             </div>
           </div>
           {/* Ko-fi button */}
-          <a href="https://ko-fi.com/jkcoffee" target="_blank" rel="noopener noreferrer" style={{ display:"flex", alignItems:"center", justifyContent:"center", gap:8, marginTop:14, padding:"9px 16px", background:"#FF5E5B", borderRadius:10, textDecoration:"none", color:"#fff", fontSize:13, fontWeight:700, fontFamily:"Georgia,serif", letterSpacing:0.3 }}>
-            ☕ Support this free app on Ko-fi
+          <a href="https://www.biznitize.com/donate" target="_blank" rel="noopener noreferrer" style={{ display:"flex", alignItems:"center", justifyContent:"center", gap:8, marginTop:14, padding:"9px 16px", background:"#FF5E5B", borderRadius:10, textDecoration:"none", color:"#fff", fontSize:13, fontWeight:700, fontFamily:"Georgia,serif", letterSpacing:0.3 }}>
+            ☕ Support this free app — biznitize.com
           </a>
 
           {/* Stats bar */}
@@ -906,8 +906,8 @@ function HomeScreen({ state, pct, onStudy, onMock, onHistory, sets }) {
             <button onClick={onHistory} style={{ width:"100%", marginTop:16, padding:"12px", background:"rgba(200,168,75,0.1)", border:"1px solid #c8a84b", borderRadius:10, cursor:"pointer", color:"#f0c84a", fontSize:13, fontFamily:"Georgia,serif" }}>
               📋 View Full History
             </button>
-            <a href="https://ko-fi.com/jkcoffee" target="_blank" rel="noopener noreferrer" style={{ display:"flex", alignItems:"center", justifyContent:"center", gap:8, marginTop:12, padding:"11px", background:"#FF5E5B", borderRadius:10, textDecoration:"none", color:"#fff", fontSize:13, fontWeight:700, fontFamily:"Georgia,serif" }}>
-              ☕ This app is free — support it on Ko-fi
+            <a href="https://www.biznitize.com/donate" target="_blank" rel="noopener noreferrer" style={{ display:"flex", alignItems:"center", justifyContent:"center", gap:8, marginTop:12, padding:"11px", background:"#FF5E5B", borderRadius:10, textDecoration:"none", color:"#fff", fontSize:13, fontWeight:700, fontFamily:"Georgia,serif" }}>
+              ☕ This app is free — support at biznitize.com/donate
             </a>
           </div>
         )}
