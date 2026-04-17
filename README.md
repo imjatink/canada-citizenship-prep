@@ -1,6 +1,6 @@
 # 🍁 Canada Citizenship Test Prep
 
-Free study app with 500 practice questions, 20 mock tests, and learning streaks.
+A study app with 500 practice questions, 20 mock tests, and learning streaks.
 
 Built to help newcomers pass the Canadian Citizenship Test on their first try.
 
